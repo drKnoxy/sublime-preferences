@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.light (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Spacegray Light.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"scroll_past_end": true,
+	"font_face": "Source Code Pro",
+	"font_size": 15,
+	"font_options": [
+		"subpixel_antialias"
+	],
+	"highlight_line": true,
+	"fade_fold_buttons": false,
+	"bold_folder_labels": true,
+	"show_full_path": true,
+	"copy_with_empty_selection": false
+}
