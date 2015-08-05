@@ -1,29 +1,55 @@
 {
+	"binary_file_patterns":
+	[
+		"*.js.map",
+		"*.min.css",
+		"*.min.js"
+	],
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.light (SL).tmTheme",
+	"caret_extra_width": 1.5,
+	"color_scheme": "Packages/User/SublimeLinter/base16-ocean.dark (SL).tmTheme",
 	"copy_with_empty_selection": false,
+	"draw_minimap_border": true,
+	"draw_white_space": "all",
 	"fade_fold_buttons": false,
 	"file_exclude_patterns":
 	[
+		".DS_Store",
+		"._*"
 	],
 	"folder_exclude_patterns":
 	[
 		"node_modules",
-		".git"
+		".git",
+		".sass-cache"
 	],
 	"font_face": "Source Code Pro",
 	"font_options":
 	[
 		"subpixel_antialias"
 	],
-	"font_size": 15,
+	"font_size": 16.0,
+	"find_selected_text": true,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"line_padding_top": 1,
+	"line_padding_bottom": 1,
+	"margin": -1,
+	"rulers":
+	[
+		120
+	],
 	"scroll_past_end": true,
 	"show_full_path": true,
-	"theme": "Spacegray Light.sublime-theme",
-	"trim_trailing_white_space_on_save": true
+	"tab_size": 4,
+	"theme": "Spacegray.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	// Add underscores
+	"word_separators": "./\\()\"'-:,.;<>~!@#$%^&*|+=[]{}`~?_",
+	"word_wrap": true,
+	"wrap_width": 120
 }

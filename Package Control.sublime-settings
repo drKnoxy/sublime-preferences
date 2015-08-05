@@ -6,12 +6,14 @@
 	[
 		"Base16 Color Schemes",
 		"Emmet",
-		"Handlebars",
+		"JSHint Gutter",
 		"Markdown Extended",
 		"Package Control",
+		"Pretty JSON",
 		"Sass",
 		"SublimeGit",
 		"SublimeLinter",
+		"Tag",
 		"Theme - Spacegray"
 	]
 }
